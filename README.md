@@ -1,4 +1,4 @@
-##PokemonNO pokemongo filter
+##PokemonNO Pokemon GO filter
 ================================
 A Chrome extension that removes Pokemon GO from the Internet.
 

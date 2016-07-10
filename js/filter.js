@@ -1,7 +1,7 @@
 /*
- * Trump Filter - Content Script
+ * Pokemon GO Filter - Content Script
  *
- * This is the primary JS file that manages the detection and filtration of Donald Trump from the web page.
+ * This is the primary JS file that manages the detection and filtration of Pokemon GOfrom the web page.
  */
 
 // Variables
